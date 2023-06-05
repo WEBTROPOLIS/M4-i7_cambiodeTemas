@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppThemeBlue" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorBluePrimary</item>
+        <item name="colorPrimaryDark">@color/colorBluePrimaryDark</item>
+        <item name="colorAccent">@color/colorBlueAccent</item>
+    </style>
+
+    <style name="AppThemeOrange" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorOrangePrimary</item>
+        <item name="colorPrimaryDark">@color/colorOrangePrimaryDark</item>
+        <item name="colorAccent">@color/colorOrangeAccent</item>
+    </style>
+
+</resources>
